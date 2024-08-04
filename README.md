@@ -23,5 +23,15 @@ This tool helps generate CSRF (Cross-Site Request Forgery) payloads based on a g
 
    chmod +x csrf_tool.py
 
+## EX Of USE 
+
+![Usage](Usage.png)
+
+## the output 
+
+![Usage](output.png)
+
+
+
 
 
