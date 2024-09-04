@@ -14,7 +14,7 @@ This tool helps generate CSRF (Cross-Site Request Forgery) payloads based on a g
    Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/Momenrezk90/csrf_tool.git
+   git clone https://github.com/Momenrezk90/csrf-payload.git
    cd csrf_tool
 
 ## Make the Script Executable
